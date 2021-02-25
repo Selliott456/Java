@@ -8,7 +8,7 @@ public class MyThing
   //entry point
   //static "only one of these things can ever exist" - shows where to start the program
   //File has to be named after the class.
-public static void main (String[]args){
+public static void main (String []args){
   System.out.println("hello!");
   }
 
