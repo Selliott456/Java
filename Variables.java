@@ -19,7 +19,17 @@ public class Variables {
       int g = 10;
       int h = 11;
 
-      System.out.println(g+h);
+      System.out.println(g/h);
+
+      //this will return the same as the type of input. If you want
+      //a decimal value, call g + h doubles or floats. Doubles give
+      //you less precision
+      
+      String z = "Sherryll"
+      String y = "is"
+      String x = "brilliant"
+
+      // System.out.println(a + " " + b + " " + c) concatenates string.
 
     }
 
