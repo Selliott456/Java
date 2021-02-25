@@ -4,7 +4,7 @@ public class Arrays {
     // define an array by declaring the ype of variable you want to put in it
 
     String[] myStrings = {"here", "is", "an", "array"};
-    int[] myInts = {1, 2, 3, 4}
+    int[] myInts = {1, 2, 3, 4};
     
     System.out.println(myStrings[0]);
 
